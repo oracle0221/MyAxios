@@ -6,6 +6,7 @@ import axios from './axios';
   console.log(data);
 })();
 
+// 测试代码，切换注释即可
 //
 // Axios.interceptors.request.use(function (config){
 //   config.headers.i=999999;
@@ -24,7 +25,7 @@ import axios from './axios';
 // //
 // (async ()=>{
 //   let res=await Axios('data/1.json', {
-//     // baseUrl: 'http://www.zhinengshe.com/',
+//     // baseUrl: 'http://www.baidu.com/',
 //     headers: {
 //       a: 12,
 //       b: 'asdf sdfa ; : dfasdewrrt'
